@@ -1,10 +1,7 @@
 <h1 align="center">
   <img alt="Dashboard" title="Dashboard" src="src/assets/logo.svg"  />
+  <p>Explore repositórios do Github.</p>
 </h1>
-
-<h2 align="center">
-  Explore repositórios do Github.
-</h2>
 
 ## Primeiro Acesso
 ### Clonando o projeto
