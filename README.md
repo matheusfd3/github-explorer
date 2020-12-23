@@ -1,13 +1,10 @@
-# Github Explorer
-
-
 <h1 align="center">
   <img alt="Dashboard" title="Dashboard" src="src/assets/logo.svg"  />
 </h1>
 
-<h5 align="center">
+<h2 align="center">
   Explore repositórios do Github.
-</h5>
+</h2>
 
 ## Primeiro Acesso
 ### Clonando o projeto
