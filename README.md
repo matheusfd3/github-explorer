@@ -1,6 +1,5 @@
 <h1 align="center">
   <img alt="Dashboard" title="Dashboard" src="src/assets/logo.svg"  />
-  <p>Explore repositórios do Github.</p>
 </h1>
 
 ## Primeiro Acesso
